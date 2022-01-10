@@ -1,0 +1,31 @@
+2021-12-08 14:27:14,754 INFO [com.esiea.fr.arch.hb.ApiRestSweApplication] - THE USER Pierre Louis Brillet HAS BEEN SUCCESSFULLY ADDED!
+2021-12-08 21:56:27,825 INFO [com.esiea.fr.arch.hb.ApiRestSweApplication] - THE USER [Nicolas][Bernard] HAS BEEN SUCCESSFULLY ADDED!
+2022-01-04 14:20:24,743 INFO [com.esiea.fr.arch.hb.ApiRestSweApplication] - THE USER [Hippolyte][Bernard] HAS BEEN SUCCESSFULLY ADDED!
+2022-01-04 14:24:39,358 INFO [com.esiea.fr.arch.hb.ApiRestSweApplication] - THE USER [Aimeric][Clement] HAS BEEN SUCCESSFULLY ADDED!
+2022-01-05 13:08:18,319 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Jean Jacques (ID = 8) has been edited
+2022-01-05 13:09:51,744 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Jean Jacques (ID = 8) has been removed
+2022-01-06 15:41:39,658 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Youssef Ouchoud (ID = 9) has been edited
+2022-01-06 15:44:14,799 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Moussa Yattara (ID = 10) has been edited
+2022-01-06 16:44:07,540 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Moussa Yattara (ID = 11) has been edited
+2022-01-06 17:08:45,962 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Hippolyte Bernard (ID = 1) has been removed
+2022-01-06 17:14:29,698 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Nicolas Bernard (ID = 4) has been removed
+2022-01-06 20:15:01,893 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Jean Luc (ID = 12) has been edited
+2022-01-06 20:15:23,790 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Grillade Merguez (ID = 13) has been edited
+2022-01-06 20:15:47,522 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Sarah Connor (ID = 14) has been edited
+2022-01-06 20:15:54,356 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Sarah Connor (ID = 14) has been removed
+2022-01-06 20:16:06,295 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Jean Luc (ID = 12) has been removed
+2022-01-06 20:29:05,438 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Grillade Merguez (ID = 13) has been removed
+2022-01-06 20:55:15,307 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Jean Marie (ID = 15) has been added
+2022-01-06 20:56:00,391 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Jean-Marie Lapan (ID = 15) has been removed
+2022-01-06 22:24:46,736 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Nicolas Bernard (ID = 16) has been added
+2022-01-06 22:25:09,429 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Moussa Yattara (ID = 11) has been removed
+2022-01-07 13:25:50,104 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Anis Fabre (ID = 17) has been added
+2022-01-07 13:29:11,471 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Anis Fabre (ID = 17) has been removed
+2022-01-07 13:32:47,052 INFO [com.esiea.fr.arch.hb.service.UserService] - The user P L (ID = 18) has been added
+2022-01-07 13:33:26,848 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user P L (ID = 18) has been removed
+2022-01-07 14:39:52,201 INFO [com.esiea.fr.arch.hb.service.UserService] - The user  null (ID = 19) has been added
+2022-01-07 17:36:15,358 INFO [com.esiea.fr.arch.hb.service.UserService] - The user François Dumez (ID = 20) has been added
+2022-01-07 17:36:37,172 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user Nicolas Bernard (ID = 16) has been removed
+2022-01-07 17:39:03,843 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Julia Chamot-Rooke (ID = 21) has been added
+2022-01-07 17:40:42,234 INFO [com.esiea.fr.arch.hb.controllers.UserController] - The user admin admin (ID = 19) has been removed
+2022-01-07 20:39:32,581 INFO [com.esiea.fr.arch.hb.service.UserService] - The user Dorian Lamarche (ID = 2) has been added
