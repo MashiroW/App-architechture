@@ -1,0 +1,23 @@
+<nav class = "navbar navbar-expand-sm bg-dark navbar-dark">
+  <ul class= "navbar-nav navbar-dark">
+    <li class = "nav-item">
+      <a routerLink="users" routerLinkActive="active" class = "nav-link">Users List</a>
+    </li>
+    <li class = "nav-item">
+      <a routerLink="create-user" routerLinkActive="active" class = "nav-link">Create Account</a>
+    </li>
+    <li class = "nav-item">
+      <a routerLink="login" routerLinkActive="active" class = "nav-link">Login</a>
+    </li>
+  </ul>
+</nav>
+
+<h1 class="text-center"> {{title}} </h1>
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+<footer class = "footer bg-dark">
+  <div class = "container">
+    <span>This really wasn't easy.</span>
+  </div>
+</footer>
